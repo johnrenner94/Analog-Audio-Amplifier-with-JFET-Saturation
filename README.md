@@ -44,7 +44,7 @@ Design choices were informed by standard small-signal audio practice, with refer
 
 ## Repository Contents
 
-- **docs/**  
+- **report/**  
   Design report (PDF) describing theory of operation, design rationale, and simulation results.
 
 - **schematic/**  
