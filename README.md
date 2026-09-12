@@ -44,13 +44,13 @@ Design choices were informed by standard small-signal audio practice, with refer
 
 ## Repository Contents
 
-- **report/**  
+- **report.pdf**  
   Design report (PDF) describing theory of operation, design rationale, and simulation results.
 
-- **schematic/**  
+- **schematic.pdf**  
   Current schematic of the full circuit (PDF).
 
-- **simulation/**  
+- **simulation.asc**  
   LTspice schematics used for AC, transient, and distortion analysis.
 
 - **ltspice_components/**  
