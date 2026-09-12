@@ -1,0 +1,6 @@
+# LTspice files are not conventional source-code languages
+*.asc linguist-detectable=false
+*.asy linguist-detectable=false
+
+# Exclude all custom LTspice support files from language statistics
+ltspice_components/** linguist-detectable=false
